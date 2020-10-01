@@ -10,3 +10,6 @@ Using `blink.css` is very easy! All you have to do is add a simple style tag to 
 ```html
 <style>blink{animation:blink 1s infinite}@keyframes blink{0%{opacity:0}59%{opacity:0}60%{opacity:1}}</style>
 ```
+
+## Demo
+[see blink.css in action](https://uiversal.github.io/blink.css/demo.html) on this awesome website i designed.
